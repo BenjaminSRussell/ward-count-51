@@ -995,3 +995,6 @@
 {"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west gutter. arc left open. 5 steps. The rebar stays for the start."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Clinic roof. Nobody past the west gutter. We start in 6 steps. Arc on the left lane, open."}
 {"n":997,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west gutter. Nia keeps the rebar for the start. 7 steps, arc on the left lane, open."}
+{"n":998,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west gutter. arc left open. 8 steps. The rebar stays for the start."}
+{"n":999,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Clinic roof. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":1000,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west gutter. Ivo keeps the rebar for the start. 3 steps, arc on the left lane, open."}
