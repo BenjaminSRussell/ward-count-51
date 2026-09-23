@@ -392,3 +392,6 @@
 {"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The barrel stays for the start."}
 {"n":393,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the Lot. Nobody past the west gutter. We start in 5 steps. Arc on the left lane, open."}
 {"n":394,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west gutter. Matt keeps the barrel for the start. 6 steps, arc on the left lane, open."}
+{"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west gutter. arc left open. 7 steps. The barrel stays for the start."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Lot. Nobody past the west gutter. We start in 8 steps. Arc on the left lane, open."}
+{"n":397,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot west gutter. Nia keeps the barrel for the start. 2 steps, arc on the left lane, open."}
