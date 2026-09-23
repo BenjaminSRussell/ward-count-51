@@ -262,3 +262,6 @@
 {"n":262,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Underpass. Nobody past the south dock. We start in 8 steps. Arc on the left lane, open."}
 {"n":263,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south dock. Bess keeps the shutter for the start. 2 steps, arc on the left lane, open."}
 {"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south dock. arc left open. 3 steps. The shutter stays for the start."}
+{"n":265,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Mast yard. Nobody past the south dock. We start in 4 steps. Arc on the left lane, open."}
+{"n":266,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard south dock. Matt keeps the shutter for the start. 5 steps, arc on the left lane, open."}
+{"n":267,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The shutter stays for the start."}
