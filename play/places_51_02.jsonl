@@ -782,3 +782,6 @@
 {"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east dock. arc left open. 8 steps. The lamp stays for the start."}
 {"n":783,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Clinic roof. Nobody past the east dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":784,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof east dock. Ivo keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":785,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east dock. arc left open. 4 steps. The lamp stays for the start."}
+{"n":786,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Clinic roof. Nobody past the east dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":787,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east dock. Bess keeps the lamp for the start. 6 steps, arc on the left lane, open."}
