@@ -318,3 +318,6 @@
 {"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south dock. arc left open. 8 steps. The shutter stays for the start."}
 {"n":319,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Clinic roof. Nobody past the south dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":320,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south dock. Ivo keeps the shutter for the start. 3 steps, arc on the left lane, open."}
+{"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south dock. arc left open. 4 steps. The shutter stays for the start."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Clinic roof. Nobody past the south dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":323,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south dock. Bess keeps the shutter for the start. 6 steps, arc on the left lane, open."}
