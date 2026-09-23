@@ -65,3 +65,6 @@
 {"n":65,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south dock. Nia keeps the rope for the start. 7 steps, arc on the left lane, open."}
 {"n":66,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south dock. arc left open. 8 steps. The rope stays for the start."}
 {"n":67,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Stockyard fence. Nobody past the south dock. We start in 2 steps. Arc on the left lane, open."}
+{"n":68,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south dock. Ivo keeps the rope for the start. 3 steps, arc on the left lane, open."}
+{"n":69,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south dock. arc left open. 4 steps. The rope stays for the start."}
+{"n":70,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Stockyard fence. Nobody past the south dock. We start in 5 steps. Arc on the left lane, open."}
