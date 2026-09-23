@@ -743,3 +743,6 @@
 {"n":743,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Lot. Nobody past the west gutter. We start in 4 steps. Arc on the left lane, open."}
 {"n":744,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the badge door for the start. 5 steps, arc on the left lane, open."}
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. arc left open. 6 steps. The badge door stays for the start."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Lot. Nobody past the west gutter. We start in 7 steps. Arc on the left lane, open."}
+{"n":747,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west gutter. Bess keeps the badge door for the start. 8 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. arc left open. 2 steps. The badge door stays for the start."}
