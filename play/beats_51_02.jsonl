@@ -336,3 +336,6 @@
 {"n":336,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Kessler alley. Nobody past the east dock. We start in 3 steps. Arc on the left lane, open."}
 {"n":337,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east dock. Nia keeps the barrel for the start. 4 steps, arc on the left lane, open."}
 {"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east dock. arc left open. 5 steps. The barrel stays for the start."}
+{"n":339,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Kessler alley. Nobody past the east dock. We start in 6 steps. Arc on the left lane, open."}
+{"n":340,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east dock. Ivo keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":341,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. arc left open. 8 steps. The barrel stays for the start."}
