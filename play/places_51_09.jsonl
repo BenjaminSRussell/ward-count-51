@@ -907,3 +907,6 @@
 {"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west gutter. arc left open. 7 steps. The radio coil stays for the start."}
 {"n":908,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the Lot. Nobody past the west gutter. We start in 8 steps. Arc on the left lane, open."}
 {"n":909,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot west gutter. Nia keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
+{"n":910,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west gutter. arc left open. 3 steps. The radio coil stays for the start."}
+{"n":911,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the Lot. Nobody past the west gutter. We start in 4 steps. Arc on the left lane, open."}
+{"n":912,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
