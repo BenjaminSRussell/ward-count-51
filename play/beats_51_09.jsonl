@@ -794,3 +794,6 @@
 {"n":794,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Mast yard. Nobody past the west gutter. We start in 6 steps. Arc on the left lane, open."}
 {"n":795,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the badge door for the start. 7 steps, arc on the left lane, open."}
 {"n":796,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The badge door stays for the start."}
+{"n":797,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Last Light. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":798,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west gutter. Matt keeps the badge door for the start. 3 steps, arc on the left lane, open."}
+{"n":799,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west gutter. arc left open. 4 steps. The badge door stays for the start."}
