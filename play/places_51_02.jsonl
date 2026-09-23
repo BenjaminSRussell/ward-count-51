@@ -215,3 +215,6 @@
 {"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east dock. arc left open. 8 steps. The hydrant stays for the start."}
 {"n":216,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at the Underpass. Nobody past the east dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":217,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east dock. Nia keeps the hydrant for the start. 3 steps, arc on the left lane, open."}
+{"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east dock. arc left open. 4 steps. The hydrant stays for the start."}
+{"n":219,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at the Underpass. Nobody past the east dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":220,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east dock. Ivo keeps the hydrant for the start. 6 steps, arc on the left lane, open."}
