@@ -827,3 +827,6 @@
 {"n":827,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west gutter. arc left open. 5 steps. The lamp stays for the start."}
 {"n":828,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Clinic roof. Nobody past the west gutter. We start in 6 steps. Arc on the left lane, open."}
 {"n":829,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west gutter. Nia keeps the lamp for the start. 7 steps, arc on the left lane, open."}
+{"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west gutter. arc left open. 8 steps. The lamp stays for the start."}
+{"n":831,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Clinic roof. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof west gutter. Ivo keeps the lamp for the start. 3 steps, arc on the left lane, open."}
