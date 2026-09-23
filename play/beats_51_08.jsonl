@@ -546,3 +546,6 @@
 {"n":546,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the west gutter. We start in 4 steps. Arc on the left lane, open."}
 {"n":547,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west gutter. Bess keeps the crate for the start. 5 steps, arc on the left lane, open."}
 {"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west gutter. arc left open. 6 steps. The crate stays for the start."}
+{"n":549,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the west gutter. We start in 7 steps. Arc on the left lane, open."}
+{"n":550,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west gutter. Matt keeps the crate for the start. 8 steps, arc on the left lane, open."}
+{"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west gutter. arc left open. 2 steps. The crate stays for the start."}
