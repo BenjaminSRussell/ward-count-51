@@ -138,3 +138,6 @@
 {"n":138,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south dock. arc left open. 3 steps. The rope stays for the start."}
 {"n":139,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at the pier. Nobody past the south dock. We start in 4 steps. Arc on the left lane, open."}
 {"n":140,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south dock. Ivo keeps the rope for the start. 5 steps, arc on the left lane, open."}
+{"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The rope stays for the start."}
+{"n":142,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the pier. Nobody past the south dock. We start in 7 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south dock. Bess keeps the rope for the start. 8 steps, arc on the left lane, open."}
