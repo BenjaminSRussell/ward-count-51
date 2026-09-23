@@ -39,3 +39,6 @@
 {"n":39,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west gutter. Bess keeps the rebar for the start. 7 steps, arc on the left lane, open."}
 {"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west gutter. arc left open. 8 steps. The rebar stays for the start."}
 {"n":41,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Ward gate. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":42,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west gutter. Matt keeps the rope for the start. 3 steps, arc on the left lane, open."}
+{"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west gutter. arc left open. 4 steps. The rope stays for the start."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Ward gate. Nobody past the west gutter. We start in 5 steps. Arc on the left lane, open."}
