@@ -298,3 +298,6 @@
 {"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east dock. arc left open. 6 steps. The shutter stays for the start."}
 {"n":299,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the east dock. We start in 7 steps. Arc on the left lane, open."}
 {"n":300,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the shutter for the start. 8 steps, arc on the left lane, open."}
+{"n":301,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. arc left open. 2 steps. The shutter stays for the start."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Switchyard. Nobody past the east dock. We start in 3 steps. Arc on the left lane, open."}
+{"n":303,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east dock. Bess keeps the shutter for the start. 4 steps, arc on the left lane, open."}
