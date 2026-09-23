@@ -500,3 +500,6 @@
 {"n":500,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south dock. Ivo keeps the awning for the start. 8 steps, arc on the left lane, open."}
 {"n":501,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south dock. arc left open. 2 steps. The awning stays for the start."}
 {"n":502,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Switchyard. Nobody past the south dock. We start in 3 steps. Arc on the left lane, open."}
+{"n":503,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south dock. Bess keeps the awning for the start. 4 steps, arc on the left lane, open."}
+{"n":504,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south dock. arc left open. 5 steps. The awning stays for the start."}
+{"n":505,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Drydock. Nobody past the south dock. We start in 6 steps. Arc on the left lane, open."}
