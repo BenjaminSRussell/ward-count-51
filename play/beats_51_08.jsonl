@@ -387,3 +387,6 @@
 {"n":387,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Kessler alley. Nobody past the west gutter. We start in 6 steps. Arc on the left lane, open."}
 {"n":388,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west gutter. Ivo keeps the barrel for the start. 7 steps, arc on the left lane, open."}
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The barrel stays for the start."}
+{"n":390,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":391,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The barrel stays for the start."}
