@@ -218,3 +218,6 @@
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west gutter. arc left open. 5 steps. The hydrant stays for the start."}
 {"n":219,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Kessler alley. Nobody past the west gutter. We start in 6 steps. Arc on the left lane, open."}
 {"n":220,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west gutter. Ivo keeps the hydrant for the start. 7 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The hydrant stays for the start."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west gutter. We start in 2 steps. Arc on the left lane, open."}
+{"n":223,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the hydrant for the start. 3 steps, arc on the left lane, open."}
