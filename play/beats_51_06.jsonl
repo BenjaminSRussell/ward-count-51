@@ -614,3 +614,6 @@
 {"n":614,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Last Light. Nobody past the south dock. We start in 4 steps. Arc on the left lane, open."}
 {"n":615,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light south dock. Bess keeps the crate for the start. 5 steps, arc on the left lane, open."}
 {"n":616,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south dock. arc left open. 6 steps. The crate stays for the start."}
+{"n":617,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at South stair. Nobody past the south dock. We start in 7 steps. Arc on the left lane, open."}
+{"n":618,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair south dock. Matt keeps the crate for the start. 8 steps, arc on the left lane, open."}
+{"n":619,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south dock. arc left open. 2 steps. The crate stays for the start."}
