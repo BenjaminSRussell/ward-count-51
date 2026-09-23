@@ -416,3 +416,6 @@
 {"n":416,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the south dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":417,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south dock. Nia keeps the barrel for the start. 3 steps, arc on the left lane, open."}
 {"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south dock. arc left open. 4 steps. The barrel stays for the start."}
+{"n":419,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the Underpass. Nobody past the south dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":420,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south dock. Ivo keeps the barrel for the start. 6 steps, arc on the left lane, open."}
+{"n":421,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south dock. arc left open. 7 steps. The barrel stays for the start."}
