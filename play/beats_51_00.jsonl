@@ -638,3 +638,6 @@
 {"n":638,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at High line. Nobody past the west dock. We start in 6 steps. Arc on the left lane, open."}
 {"n":639,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west dock. Bess keeps the crate for the start. 7 steps, arc on the left lane, open."}
 {"n":640,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. arc left open. 8 steps. The crate stays for the start."}
+{"n":641,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Ward gate. Nobody past the west dock. We start in 2 steps. Arc on the left lane, open."}
+{"n":642,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west dock. Matt keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":643,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west dock. arc left open. 4 steps. The lamp stays for the start."}
