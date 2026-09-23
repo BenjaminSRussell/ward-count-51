@@ -402,3 +402,6 @@
 {"n":402,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south dock. arc left open. 8 steps. The awning stays for the start."}
 {"n":403,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Stockyard fence. Nobody past the south dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":404,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence south dock. Ivo keeps the awning for the start. 3 steps, arc on the left lane, open."}
+{"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south dock. arc left open. 4 steps. The awning stays for the start."}
+{"n":406,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Stockyard fence. Nobody past the south dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence south dock. Bess keeps the awning for the start. 6 steps, arc on the left lane, open."}
