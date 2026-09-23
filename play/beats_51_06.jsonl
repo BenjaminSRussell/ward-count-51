@@ -893,3 +893,6 @@
 {"n":893,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the south dock. We start in 3 steps. Arc on the left lane, open."}
 {"n":894,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south dock. Matt keeps the rebar for the start. 4 steps, arc on the left lane, open."}
 {"n":895,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south dock. arc left open. 5 steps. The rebar stays for the start."}
+{"n":896,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the south dock. We start in 6 steps. Arc on the left lane, open."}
+{"n":897,"kind":"place","name":"Stockyard fence south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south dock. Nia keeps the rebar for the start. 7 steps, arc on the left lane, open."}
+{"n":898,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south dock. arc left open. 8 steps. The rebar stays for the start."}
