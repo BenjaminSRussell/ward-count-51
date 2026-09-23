@@ -462,3 +462,6 @@
 {"n":462,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north dock. arc left open. 8 steps. The barrel stays for the start."}
 {"n":463,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Clinic roof. Nobody past the north dock. We start in 2 steps. Arc on the left lane, open."}
 {"n":464,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":465,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. arc left open. 4 steps. The barrel stays for the start."}
+{"n":466,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Clinic roof. Nobody past the north dock. We start in 5 steps. Arc on the left lane, open."}
+{"n":467,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the barrel for the start. 6 steps, arc on the left lane, open."}
