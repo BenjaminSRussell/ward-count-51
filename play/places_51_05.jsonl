@@ -173,3 +173,6 @@
 {"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north dock. arc left open. 5 steps. The rope stays for the start."}
 {"n":174,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at High line. Nobody past the north dock. We start in 6 steps. Arc on the left lane, open."}
 {"n":175,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north dock. Bess keeps the rope for the start. 7 steps, arc on the left lane, open."}
+{"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The rope stays for the start."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Ward gate. Nobody past the north dock. We start in 2 steps. Arc on the left lane, open."}
+{"n":178,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north dock. Matt keeps the shutter for the start. 3 steps, arc on the left lane, open."}
