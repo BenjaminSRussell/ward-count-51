@@ -453,3 +453,6 @@
 {"n":453,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair south dock. Nia keeps the barrel for the start. 4 steps, arc on the left lane, open."}
 {"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south dock. arc left open. 5 steps. The barrel stays for the start."}
 {"n":455,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at South stair. Nobody past the south dock. We start in 6 steps. Arc on the left lane, open."}
+{"n":456,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair south dock. Ivo keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":457,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The barrel stays for the start."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at South stair. Nobody past the south dock. We start in 2 steps. Arc on the left lane, open."}
